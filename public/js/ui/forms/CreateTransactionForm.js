@@ -60,6 +60,7 @@ class CreateTransactionForm extends AsyncForm {
         }
           App.getWidget("accounts").update();
           App.getPage("transactions").update();
+          App.update();
       }
     })
 

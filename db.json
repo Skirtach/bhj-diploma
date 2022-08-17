@@ -158,6 +158,15 @@
       "account_id": "18bevr1j0l6xmqgtg",
       "user_id": "18bevraw8l6xmnj3v",
       "created_at": "2022-08-17T13:09:05.288Z"
+    },
+    {
+      "id": "18bevr5zsl6xr8nqq",
+      "type": "income",
+      "name": "зп",
+      "sum": 100,
+      "account_id": "1",
+      "user_id": "1",
+      "created_at": "2022-08-17T15:14:37.489Z"
     }
   ]
 }
