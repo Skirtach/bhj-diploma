@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "name": "demo",
+      "email": "demo@demo",
+      "password": "demo",
+      "id": "1"
+    },
+    {
+      "name": "Irine",
+      "email": "ir_si@e1.ru",
+      "password": "123",
+      "id": "18bevr618l60le6l9"
+    },
+    {
+      "name": "Iren",
+      "email": "a@mail.ru",
+      "password": "911",
+      "id": "18bevraw8l6xmnj3v"
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Банк",
+      "user_id": "1",
+      "id": "1"
+    },
+    {
+      "name": "Бизнес",
+      "user_id": "1",
+      "id": "3"
+    },
+    {
+      "name": "papirus",
+      "user_id": "18bevraw8l6xmnj3v",
+      "id": "18bevr6usl6xmpuly"
+    },
+    {
+      "name": "pop",
+      "user_id": "18bevraw8l6xmnj3v",
+      "id": "18bevr1j0l6xmqgtg"
+    }
+  ],
+  "transactions": [
+    {
+      "account_id": "1",
+      "created_at": "2019-09-17 15:53:02",
+      "id": "2",
+      "name": "Баланс на дебетовке",
+      "sum": 3200,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "1",
+      "created_at": "2019-09-19 20:12:02",
+      "id": "3",
+      "name": "Копилка",
+      "sum": 1500,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "9",
+      "name": "На банду",
+      "sum": 15000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-17 13:27:02",
+      "id": "10",
+      "name": "На стволы",
+      "sum": 6000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-12-27 13:27:02",
+      "id": "11",
+      "name": "Прибыль с банка",
+      "sum": 1500000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "12",
+      "name": "Прибыль с магазина",
+      "sum": 300000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "13",
+      "name": "Подарок сизого",
+      "sum": 20000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-15 13:27:02",
+      "id": "14",
+      "name": "На охрану",
+      "sum": 60000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "15",
+      "name": "На бумер",
+      "sum": 300000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "id": "18bevr15ol6xmq3m7",
+      "type": "income",
+      "name": "kit",
+      "sum": 34,
+      "account_id": "18bevr6usl6xmpuly",
+      "user_id": "18bevraw8l6xmnj3v",
+      "created_at": "2022-08-17T13:08:13.134Z"
+    },
+    {
+      "id": "18bevr7dol6xmqbu2",
+      "type": "expense",
+      "name": "kot",
+      "sum": 12,
+      "account_id": "18bevr6usl6xmpuly",
+      "user_id": "18bevraw8l6xmnj3v",
+      "created_at": "2022-08-17T13:08:23.785Z"
+    },
+    {
+      "id": "18bevr3skl6xmqtou",
+      "type": "income",
+      "name": "lena",
+      "sum": 34,
+      "account_id": "18bevr1j0l6xmqgtg",
+      "user_id": "18bevraw8l6xmnj3v",
+      "created_at": "2022-08-17T13:08:46.925Z"
+    },
+    {
+      "id": "18bevr9b0l6xmr7ux",
+      "type": "expense",
+      "name": "dom",
+      "sum": 22,
+      "account_id": "18bevr1j0l6xmqgtg",
+      "user_id": "18bevraw8l6xmnj3v",
+      "created_at": "2022-08-17T13:09:05.288Z"
+    }
+  ]
+}
